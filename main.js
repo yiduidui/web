@@ -1,44 +1,39 @@
 
 [{
-    "squadName" : "Super hero squad",
-    "homeTown" : "Metro City",
-    "formed" : 2016,
-    "secretBase" : "Super tower",
-    "active" : true,
+    "squadName" : "易烊千玺",
+    "应援口号":"一心一意，易烊千玺",
     "members" : [
       {
         "姓名" : "易烊千玺",
-        "出生日期" : 2000.11.28
-        "secretIdentity" : "Dan Jukes",
-        "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
+        "外文名":"jackson ",
+        "出生日期" : "2000.11.28",
+        "职业" : [
+          "歌手",
+          "演员",
+          "舞者"
+        ],
+        "特长":"舞蹈，书法，魔术，变脸，乐器等",
+        "应援色":"红色",
+        "主要成就":[
+        "2017ELLE风尚大典ELLE年度人气偶像",
+        "丹麦王国史上首位国家旅游形象代言人",
+        "Billboard Radio China 2017年度华语金曲",
+        "百度百科史记·2016年度十大明星之首",
+        "2016中国泛娱乐指数盛典明星影响力榜首",
+        "2016新浪明星势力榜年度人气之星",
+        "第16届音乐风云榜年度盛典最受欢迎偶像",
+        "登上2016年中央电视台春节联欢晚会",
+        "2016微博电影之夜影人榜冠军",
+        "全员加速中第一季总冠军",
+        "2015两岸男神榜小鲜肉冠军",
+        "2015青春励志人物冠军",
+        "2015东方男神榜冠军",
+        "2014北京欢乐谷街舞精英赛齐舞冠军",
+        "2014微博之夜微博年度公益贡献奖",
+        "2010圆梦中国年度公益新星",
         ]
       },
-      {
-        "name" : "Madame Uppercut",
-        "age" : 39,
-        "secretIdentity" : "Jane Wilson",
-        "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
-      },
-      {
-        "name" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
-        "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
-    ]
+    ]   
   }]
   var myJSON = { "name" : "Chris", "age" : "38" };
   myJSON
